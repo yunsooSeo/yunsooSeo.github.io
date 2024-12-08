@@ -1,6 +1,6 @@
 #Site configuration
 title: YunSoo:D
-name:  Hello! Nice to meet you:D
+name:  YunSoo Seo
 author: Yunsoo Seo
 work:  Robotics engineer
 year: 2001
@@ -11,7 +11,7 @@ nav2: "Things I Can Do"
 nav3: "A Few Accomplishments"
 
 # Section1
-sec1: "Read Jekyll"
+sec1: "Hello! Nice to meet you:D"
 sec2: "Just an incredibly simple responsive template for Jekyll."
 sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
 
