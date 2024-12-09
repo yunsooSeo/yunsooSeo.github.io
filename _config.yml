@@ -6,9 +6,11 @@ work:  Robotics engineer
 year: 2001
 
 # Navigation
-nav1: "About"
-nav2: "Things I Can Do"
-nav3: "A Few Accomplishments"
+nav1: "About me"
+nav2: "Educations"
+nav3: "Projects"
+nav4: "Publications"
+nav5: "Interests"
 
 # Section1
 sec1: "Hello! Nice to meet you:D"
