@@ -1591,7 +1591,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #add8e6;
+		color: #4169E1;
 		font-weight: 700;
 		line-height: 1em;
 		margin: 0 0 0.5625em 0;
@@ -1726,12 +1726,12 @@
 	}
 
 	header.major h2 {
-		color: #add8e6;
+		color: #4169E1;
 		font-size: 3.5em;
 	}
 
 		header.major h2 + p {
-			color: #add8e6;
+			color: #4169E1;
 			font-size: 1.75em;
 			font-weight: 700;
 			margin-top: -0.75em;
