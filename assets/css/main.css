@@ -1815,7 +1815,7 @@
 			line-height: 2.75em;
 			pointer-events: none;
 			position: absolute;
-			right: 0;
+			left: 0;
 			text-align: center;
 			top: 0;
 			width: 2.75em;
@@ -2601,7 +2601,7 @@
 
 	#one:before {
 		background-image: url("../../assets/images/banner.jpg");
-		background-position: top right;
+		background-position: top left;
 		background-repeat: no-repeat;
 		background-size: cover;
 		content: '';
@@ -2756,7 +2756,7 @@
 				-webkit-transform: translateX(23em);
 				-ms-transform: translateX(23em);
 				transform: translateX(23em);
-				right: 0;
+				left: 0;
 			}
 
 				#header > footer {
@@ -2764,7 +2764,7 @@
 					left: auto;
 					margin: 0.5em 0 0 0;
 					position: relative;
-					right: auto;
+					left: auto;
 					top: auto;
 				}
 
@@ -2859,7 +2859,7 @@
 						text-align: center;
 						top: 0;
 						width: 64px;
-						right: 0;
+						left: 0;
 					}
 
 			body.header-visible #wrapper, body.header-visible #titleBar {
