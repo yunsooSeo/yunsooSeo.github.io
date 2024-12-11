@@ -2024,12 +2024,12 @@ display: block;
 width: 100%;
 }
 
-.image.avatar {
+.image.mainpic {
 border-radius: 100%;
 overflow: hidden;
 }
 
-.image.avatar img {
+.image.mainpic img {
 border-radius: 100%;
 display: block;
 width: 100%;
@@ -2505,7 +2505,7 @@ flex-shrink: 0;
 padding: 3em;
 }
 
-#header > header .avatar {
+#header > header .mainpic {
 display: block;
 margin: 0 auto 2.25em auto;
 width: 8em;
@@ -2962,7 +2962,7 @@ left: 0;
 padding: 2em;
 }
 
-#header > header .avatar {
+#header > header .mainpic {
 margin: 0 auto 1.6875em auto;
 width: 6em;
 }
