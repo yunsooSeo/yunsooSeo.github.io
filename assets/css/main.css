@@ -2542,11 +2542,10 @@ color: #ffffff;
 }
 
 #header > nav {
-display: flex;  /* 여러 nav 항목들이 나열될 수 있도록 설정 */
-flex-direction: column; /* 세로로 나열 */
-flex-grow: 1;  /* nav 요소들이 가용 공간을 차지하도록 설정 */
-width: 100%;   /* 너비를 100%로 설정 */
-margin-bottom: 1em; /* 각 nav 요소 사이에 여백 추가 */
+-moz-flex-grow: 1;
+-webkit-flex-grow: 1;
+-ms-flex-grow: 1;
+flex-grow: 1;
 }
 
 #header > nav ul {
@@ -2562,6 +2561,11 @@ padding: 0;
 }
 
 #header > nav ul li a {
+-moz-transition: none;
+-webkit-transition: none;
+-ms-transition: none;
+transition: none;
+border: 0;
 color: #ffffff !important;
 display: block;
 padding: 0.85em 0;
