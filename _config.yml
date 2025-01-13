@@ -11,7 +11,7 @@ nav1: "About me 😄"
 nav2: "Educations 🏫"
 nav3: "Projects 🤖"
 nav4: "Publications 📜"
-nav5: "On going studies ✏️"
+nav5: "Journey ✏️"
 
 # Section1
 sec1: "About me 😄"
@@ -40,13 +40,13 @@ sec5: >
   👩‍🎓 M.S in Electrical and Computer Engineering, Mar. 2024 - Present<br>
 sec5-1: >
   &nbsp;&nbsp;&nbsp;&nbsp; ✔️ Major: Control, Robotics and Systems. Korea University <span style="font-size: 0.7em;">(GPA: 4.5/4.5)</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="https://sites.google.com/view/kist-arc/home/" style="font-weight:bold ">Advanced Robot Control lab(ARC)</a> in Korea Institue of Science and Technology (KIST) 2024 - </span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="https://sites.google.com/view/kist-arc/home/" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> in Korea Institue of Science and Technology (KIST) 2024 - </span><br>
   &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="http://cml.korea.ac.kr/" style="font-weight:bold ">Control and Mechatronics Lab</a> in Korea University 2024 - </span><br>
 sec55: >
   🧑‍🎓 B.S in Mechanical, Robotics and Energy Engineering, Mar.2020 - Feb. 2024
 sec55-1: >
   &nbsp;&nbsp;&nbsp;&nbsp; ✔️ Robotics. Dongguk University <span style="font-size: 0.7em;">(GPA: 3.69/4.5)</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.88em;">Undergraduate researcher of <a href="https://sites.google.com/view/kist-arc/home/" style="font-weight:bold ">Advanced Robot Control lab(ARC)</a> in Korea Institue of Science and Technology (KIST) 2022-2023</span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.88em;">Undergraduate researcher of <a href="https://sites.google.com/view/kist-arc/home/" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> in Korea Institue of Science and Technology (KIST) 2022-2023</span><br>
 icon1: "fas fa-code"
 icont1: "Write all the code"
 icon2: "fa-cubes"
@@ -74,8 +74,8 @@ sec9: "Snapped dark matter in the wild"
 sec10: "MPPI CoM generator + footstepplanning"
 sec11: >
   ✔️ Model : G1 <br>
-  ✔️ Method : MPPI CoM generator + weighted whole body controller + footstepplanning <br>
-  -Reference footstepplanner:<br>
+  ✔️ Method : MPPI CoM generator + weighted whole body controller + foot step planning <br>
+  -Reference foot step planner:<br>
   <a href="https://ieeexplore.ieee.org/abstract/document/10375162" style="font-size: 0.7em;">"Extremely Fast Computation of CoM Trajectory Generation for Walking Leveraging MPPI Algorithm"</a><br>
   <a href="https://github.com/isri-aist/BaselineFootstepPlanner" style="font-size: 0.7em;">"BaselineFootstepPlanner"</a><br>
 sec12: "Adaptive dynamic programming(ADP) - On policy learning"
@@ -132,5 +132,6 @@ github: yunsooSeo
 #medium: username
 #vimeo: username
 # keybase: username
+google_scholar: citations?user=xPhWctkAAAAJ&hl=ko&oi=sra
 email: 01aggiggi@gmail.com
 

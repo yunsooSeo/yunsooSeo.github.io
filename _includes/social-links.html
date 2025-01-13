@@ -24,7 +24,7 @@
     {% endif %}
 
     {% if site.youtube %}
-    <li><a href="https://youtube.com/{{ site.youtube }}" class="icon fa-youtube" target="_blank"><span class="label">Youtube</span></a></li>
+    <li><a href="https://youtube.com/@{{ site.youtube }}" class="icon fa-youtube" target="_blank"><span class="label">Youtube</span></a></li>
     {% endif %}
 
     {% if site.spotify %}
@@ -57,6 +57,10 @@
 
     {% if site.vimeo %}
     <li><a href="https://vimeo.com/{{ site.vimeo }}" class="icon fa-vimeo" target="_blank"><span class="label">Vimeo</span></a></li>
+    {% endif %}
+
+    {% if site.google_scholar %}
+    <li><a href="https://scholar.google.com/{{ site.google_scholar }}" class="icon fa-google" target="_blank"><span class="label">google_scholar</span></a></li>
     {% endif %}
 
     {% if site.keybase %}
