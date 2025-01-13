@@ -1,9 +1,9 @@
 #Site configuration
 title:  YunSoo:D
-name:  YunSoo Seo
-author: Yunsoo Seo
+name:  YunSoo Seo 
+author: Yunsoo Seo 📄
 # work:  Robotics engineer
-work: 
+work: (click my name for my CV)
 year: 2001
 
 # Navigation
@@ -78,8 +78,9 @@ sec11: >
   -Reference footstepplanner:<br>
   <a href="https://ieeexplore.ieee.org/abstract/document/10375162" style="font-size: 0.7em;">"Extremely Fast Computation of CoM Trajectory Generation for Walking Leveraging MPPI Algorithm"</a><br>
   <a href="https://github.com/isri-aist/BaselineFootstepPlanner" style="font-size: 0.7em;">"BaselineFootstepPlanner"</a><br>
-sec12: ""
-sec13: ""
+sec12: "Adaptive dynamic programming(ADP) - On policy learning"
+sec13: "asdf"
+sec13-1: ""
 sec14-0: >
   <a href="https://ieeexplore.ieee.org/abstract/document/10375162" style="text-decoration: underline;"> Published: Model Predictive Path Integral (MPPI) CoM generator</a>
 sec15-0: >
