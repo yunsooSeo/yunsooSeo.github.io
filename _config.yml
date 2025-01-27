@@ -110,7 +110,7 @@ sec19-0: >
 sec14: "Publications 📜"
 sec15: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec16: >
-  <a href="https://ieeexplore.ieee.org/abstract/document/10375162" style="text-decoration: underline;">HUMNAOIDS 2023: <br> Model Predictive Path Integral (MPPI) CoM generator </a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/10375162" style="text-decoration: underline;">HUMANOIDS 2023: <br> Model Predictive Path Integral (MPPI) CoM generator </a>
 sec17: >
   ✔️ Model : KIST - MAHRU <br>
   ✔️ Efficient MPPI-based CoM trajectory generation enabling real-time humanoid walking: <br>
