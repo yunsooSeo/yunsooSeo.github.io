@@ -23,7 +23,7 @@ sec3-1: >
   Concurrently, I work as a research assistant at the 
   Korea Institute of Science and Technology (KIST), <a href="https://sites.google.com/view/kist-arc/home/" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a>
   under the supervision of 
-  <a href="https://scholar.google.com/citations?user=g3tJiEoAAAAJ&hl=ko&oi=sra" style="color:indigo; font-weight:bold ">Dr. Lee Yisoo</a>.
+  <a href="https://scholar.google.com/citations?user=g3tJiEoAAAAJ&hl=ko&oi=sra" style="color:indigo; font-weight:bold ">Dr. Yisoo Lee </a>.
   
 
 sec3-2:
@@ -40,13 +40,13 @@ sec5: >
   👩‍🎓 M.S in Electrical and Computer Engineering, Mar. 2024 - Present<br>
 sec5-1: >
   &nbsp;&nbsp;&nbsp;&nbsp; ✔️ Major: Control, Robotics and Systems. Korea University <span style="font-size: 0.7em;">(GPA: 4.5/4.5)</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="https://sites.google.com/view/kist-arc/home/" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> in Korea Institue of Science and Technology (KIST) 2024 - </span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="http://cml.korea.ac.kr/" style="font-weight:bold ">Control and Mechatronics Lab</a> in Korea University 2024 - </span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="https://sites.google.com/view/kist-arc/home/people#h.3k1cbav6woek" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> in Korea Institue of Science and Technology (KIST) 2024 - </span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="http://cml.korea.ac.kr/bbs/board.php?tbl=m_course&no=4&mode=VIEW&num=64&category=&findType=&findWord=&sort1=&sort2=&page=1" style="font-weight:bold ">Control and Mechatronics Lab</a> in Korea University 2024 - </span><br>
 sec55: >
   🧑‍🎓 B.S in Mechanical, Robotics and Energy Engineering, Mar.2020 - Feb. 2024
 sec55-1: >
   &nbsp;&nbsp;&nbsp;&nbsp; ✔️ Robotics. Dongguk University <span style="font-size: 0.7em;">(GPA: 3.69/4.5)</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.88em;">Undergraduate researcher of <a href="https://sites.google.com/view/kist-arc/home/" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> in Korea Institue of Science and Technology (KIST) 2022-2023</span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.88em;">Undergraduate researcher of <a href="https://sites.google.com/view/kist-arc/home/people#h.3k1cbav6woek" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> in Korea Institue of Science and Technology (KIST) 2022-2023</span><br>
 icon1: "fas fa-code"
 icont1: "Write all the code"
 icon2: "fa-cubes"
@@ -79,35 +79,51 @@ sec11: >
   <a href="https://ieeexplore.ieee.org/abstract/document/10375162" style="font-size: 0.7em;">"Extremely Fast Computation of CoM Trajectory Generation for Walking Leveraging MPPI Algorithm"</a><br>
   <a href="https://github.com/isri-aist/BaselineFootstepPlanner" style="font-size: 0.7em;">"BaselineFootstepPlanner"</a><br>
 sec12: "Adaptive dynamic programming(ADP) - On policy learning"
-sec13: "asdf"
-sec13-1: ""
+sec13: "Authored Report"  
+sec13-1: >
+  <br>
+  ✔️ Model : Linear Inverted Pendulum Model (LIPM) <br>
+  ✔️ Method: Adaptavie dynamic programming - on policy learning
+  -Reference code <br>
+  <a href="https://github.com/yu-jiang/radpbook/tree/master" style="font-size: 0.7em;">"Textbook : robust adaptive dynamic programming"</a><br>
 sec14-0: >
   <a href="https://ieeexplore.ieee.org/abstract/document/10375162" style="text-decoration: underline;"> Published: Model Predictive Path Integral (MPPI) CoM generator</a>
 sec15-0: >
   ✔️ Model : KIST - MAHRU <br>
   ✔️ Method : MPPI CoM generator + Inverse Kinematics(IK) Controller
-sec16-0: ""
-sec17-0: ""
+sec16-0: "2 Link Manipulation - MPPI Controller"
+sec17-0: >
+  ✔️ Model : 2 Link Manipulation <br>
+  ✔️ Method : Model predictive path Integral(MPPI)  <br>
+  -Reference paper : <br>
+  <a href="https://repository.gatech.edu/entities/publication/7ca91cea-ee94-4751-9b53-54dc7a542a38 " style="font-size: 0.7em;"">"Model predictive path integral control: Theoretical foundations and applications to autonomous driving"</a>
+  <a href="https://arc.aiaa.org/doi/full/10.2514/1.G001921" style="font-size: 0.7em;"">"Model Predictive Path Integral Control: From Theory to Parallel Computation"</a>
+  
 sec18-0: "humanoid CoM generator"
 sec19-0: >
   ✔️ Model : Linear Inverted Pendulum Model(LIPM) <br>
   ✔️ Method : Model predictive control(MPC) <br>
   - Reference paper : <br>
-  &nbsp;&nbsp; <a href="https://ieeexplore.ieee.org/abstract/document/4115592" style="font-size: 0.7em;"">"Trajectory free linear model predictive control for stable walking in the presence of strong perturbations"</a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/4115592" style="font-size: 0.7em;"">"Trajectory free linear model predictive control for stable walking in the presence of strong perturbations"</a>
 
 # Section 4
 sec14: "Publications 📜"
 sec15: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
-sec16: "Possibly broke spacetime"
-sec17: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+sec16: >
+  <a href="https://ieeexplore.ieee.org/abstract/document/10375162" style="text-decoration: underline;">HUMNAOIDS 2023: <br> Model Predictive Path Integral (MPPI) CoM generator </a>
+sec17: >
+  ✔️ Model : KIST - MAHRU <br>
+  ✔️ Efficient MPPI-based CoM trajectory generation enabling real-time humanoid walking: <br>
+  &nbsp;&nbsp; - Average computation time: 0.09 ms (2 kHz update frequency) <br>
+  &nbsp;&nbsp; - Compatibility: Low-end hardware and real-time control  <br>
 sec18: "Terraformed a small moon"
 sec19: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 sec20: "Snapped dark matter in the wild"
 sec21: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Section 5
-sec22: "A Few Accomplishments"
-sec23: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
+sec22: "Journey ✏️"
+sec23: "To be Continued....."
 sec24: "Possibly broke spacetime"
 sec25: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 sec26: "Terraformed a small moon"
