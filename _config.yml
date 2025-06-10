@@ -62,14 +62,15 @@ icont6: "Shadow clone technique"
 
 # Section 3
 sec6: "Projects 🤖"
-sec7: "On going project : Contact - implicit MPPI"
+sec7: >
+  <a href="/assets/files/icros_paper.pdf" style="text-decoration: underline;"> Published: On going project - Whole body MPPI Controller</a>
 sec8: >
-  ✔️ Model: MAHRU's new model!(Awaiting public release)
-  ✔️ Method: Contact dynamics + Bisection method + MPPI
+  ✔️ Model: MAHRU's new model KAPEX!(Awaiting public release) <br>
+  ✔️ Method: Contact constraint projection dynamics + MPPI
   -Reference paper: <br>
   <a href="https://arxiv.org/abs/2312.08961" style="font-size: 0.7em;">"Contact-Implicit MPC: Controlling diverse quadruped motions without pre-planned contact modes or trajectories"</a><br>
   <a href="https://ieeexplore.ieee.org/abstract/document/8255551" style="font-size: 0.7em;">"Per-Contact Iteration Method for Solving Contact Dynamics"</a><br>
-  <a href="https://arxiv.org/abs/2103.16021" style="font-size: 0.7em;">"Fast and Feature-Complete Differentiable Physics for Articulated Rigid Bodies with Contact"</a><br>
+  <a href="https://ieeexplore.ieee.org/abstract/document/1641993" style="font-size: 0.7em;">"Contact Consistent Control Framework for Humanoid Robots"</a><br>
 sec9: "Snapped dark matter in the wild"
 sec10: "MPPI CoM generator + footstepplanning"
 sec11: >
@@ -122,10 +123,11 @@ sec20: "Snapped dark matter in the wild"
 sec21: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
 # Section 5
-sec22: "Journey ✏️"
+sec22: "Interesting paper review ✏️"
 sec23: "To be Continued....."
-sec24: "Possibly broke spacetime"
-sec25: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+sec24: > 
+  <a href="https://www.notion.so/time-delay-control-1e75aa3d415080fc9494feee649be539?source=copy_link" style="text-decoration: underline;"> "Robot Manipulator Control Using Decentralized Linear Time-Invariant Time-Delayed Joint Controllers"</a>
+# sec25: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 sec26: "Terraformed a small moon"
 sec27: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 sec28: "Snapped dark matter in the wild"
