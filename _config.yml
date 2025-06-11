@@ -11,7 +11,7 @@ nav1: "About me 😄"
 nav2: "Educations 🏫"
 nav3: "Projects 🤖"
 nav4: "Publications 📜"
-nav5: "Journey ✏️"
+nav5: "Interesting paper review ✏️"
 
 # Section1
 sec1: "About me 😄"
@@ -117,8 +117,13 @@ sec17: >
   ✔️ Efficient MPPI-based CoM trajectory generation enabling real-time humanoid walking: <br>
   &nbsp;&nbsp; - Average computation time: 0.09 ms (2 kHz update frequency) <br>
   &nbsp;&nbsp; - Compatibility: Low-end hardware and real-time control  <br>
-sec18: "Terraformed a small moon"
-sec19: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+sec18: >
+  <a href="/assets/files/icros_paper.pdf" style="text-decoration: underline;">ICROS 2025: <br> Whole body MPPI Controller </a>
+sec19: >
+  ✔️ Model : MAHRU's next version KAPEX!(Awaiting public release) <br>
+  ✔️ Efficient MPPI-based CoM trajectory generation enabling real-time humanoid walking: <br>
+  &nbsp;&nbsp; - Average computation time: 0.09 ms (2 kHz update frequency) <br>
+  &nbsp;&nbsp; - Compatibility: Low-end hardware and real-time control  <br>
 sec20: "Snapped dark matter in the wild"
 sec21: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
@@ -128,10 +133,13 @@ sec23: "To be Continued....."
 sec24: > 
   <a href="https://www.notion.so/time-delay-control-1e75aa3d415080fc9494feee649be539?source=copy_link" style="text-decoration: underline;"> "Robot Manipulator Control Using Decentralized Linear Time-Invariant Time-Delayed Joint Controllers"</a>
 # sec25: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-sec26: "Terraformed a small moon"
-sec27: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
-sec28: "Snapped dark matter in the wild"
-sec29: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+sec25: >
+  <a href="https://www.notion.so/Diffusion-style-Full-order-MPPI-torque-1ec5aa3d4150807a9b12c18a1d4149a2?source=copy_link" style="text-decoration: underline;"> “Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing”</a>
+# sec27: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
+sec26: >
+  <a href="https://www.notion.so/Vertical-Jump-of-Humanoid-robot-1f85aa3d4150806bb100fc0585954523?source=copy_link" style="text-decoration: underline;"> “Vertical Jump of a Humanoid Robot With CoP-Guided Angular Momentum Control and Impact Absorption”</a>
+sec27: >
+  <a href="https://www.notion.so/HLIP-CI-MPC-1fb5aa3d41508077b557fafa9b97faea?source=copy_link" style="text-decoration: underline;"> “Reduced-Order Model Guided Contact-Implicit Model Predictive Control for Humanoid Locomotion”</a>
 
 # Social Links
 # facebook: username
@@ -140,7 +148,7 @@ sec29: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae
 #instagram: username
 #pinterest: username
 linkedin: ys-seo-214034323
-youtube: ysseo753
+youtube: HumARCnoid
 #spotify: username
 #lastfm: username
 github: yunsooSeo
