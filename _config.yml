@@ -121,9 +121,9 @@ sec18: >
   <a href="/assets/files/icros_paper.pdf" style="text-decoration: underline;">ICROS 2025: <br> Whole body MPPI Controller </a>
 sec19: >
   ✔️ Model : MAHRU's next version KAPEX!(Awaiting public release) <br>
-  ✔️ Efficient MPPI-based CoM trajectory generation enabling real-time humanoid walking: <br>
-  &nbsp;&nbsp; - Average computation time: 0.09 ms (2 kHz update frequency) <br>
-  &nbsp;&nbsp; - Compatibility: Low-end hardware and real-time control  <br>
+  ✔️ MPPI-based whole-body optimization <br>
+  &nbsp;&nbsp; - Target system: Validated on a 3-DoF leg system for real-time control <br>
+  &nbsp;&nbsp; - Key feature: Efficient torque optimization by explicitly eliminating contact forces  <br>
 sec20: "Snapped dark matter in the wild"
 sec21: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
