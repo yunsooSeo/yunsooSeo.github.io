@@ -20,19 +20,19 @@ sec3-1: >
   I am a master's student at Korea University, <a href="http://cml.korea.ac.kr/" style="font-weight:bold ">Control and Mechatronics Lab(CML)</a>, 
   pursuing my degree under the guidance of Professor
   <a href="https://scholar.google.com/citations?user=scecuqcAAAAJ&hl=ko&oi=sra" style="color:indigo; font-weight:bold"> Myotaeg Lim</a>. 
-  Concurrently, I work as a research assistant at the 
+  Concurrently, I an working as a research assistant at the 
   Korea Institute of Science and Technology (KIST), <a href="https://sites.google.com/view/kist-arc/home/" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a>
   under the supervision of 
-  <a href="https://scholar.google.com/citations?user=g3tJiEoAAAAJ&hl=ko&oi=sra" style="color:indigo; font-weight:bold ">Dr. Yisoo Lee </a>.
+  <a href="https://scholar.google.com/citations?user=g3tJiEoAAAAJ&hl=ko&oi=sra" style="color:indigo; font-weight:bold ">Dr.Yisoo Lee </a>.
   
 
 sec3-2:
   My research interests lie in <span style="font-weight:bold;">humanoid locomotion, sampling-based Model Predictive Control (MPC), and multi-contact dynamics</span>. 
   These are some that I am diving into these days.<br>
   1️⃣ How can sampling-based MPC methods be scaled to handle high-dimensional humanoid systems in real-time?  <br>
-  2️⃣ How can we incorporate uncertainty (modeling errors, sensor noise etc.) into MPC to improve robustness in complex, dynamic environments? <br>
+  2️⃣ How can we incorporate uncertainty (e.g., modeling errors, sensor noise ) into MPC to improve robustness in complex, dynamic environments? <br>
   3️⃣ How can we model and predict the interactions between a humanoid robot and its environment during multi-contact scenarios?(and how are the robot gonna react? ex. GRF) <br><br>
-  I believe that for robots to closely interact with humans and provide convenience, their workspace needs to expand. In this regard, I think locomotion and balancing will remain crucial research areas. Ultimately, I aim to develop household robots or disaster-response robots that can assist humans effectively.
+  I believe that for robots to closely interact with humans and provide convenience, their workspace needs to expand. In this regard, I think locomotion and balance control will remain crucial research areas. Ultimately, I aim to develop household robots or disaster-response robots that can assist humans effectively.
 
 # Section 2
 sec4: "Educations 🏫"
@@ -40,13 +40,13 @@ sec5: >
   👩‍🎓 M.S in Electrical and Computer Engineering, Mar. 2024 - Present<br>
 sec5-1: >
   &nbsp;&nbsp;&nbsp;&nbsp; ✔️ Major: Control, Robotics and Systems. Korea University <span style="font-size: 0.7em;">(GPA: 4.5/4.5)</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="https://sites.google.com/view/kist-arc/home/people#h.3k1cbav6woek" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> in Korea Institute of Science and Technology (KIST) 2024 - </span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="https://sites.google.com/view/kist-arc/home/people#h.3k1cbav6woek" style="font-weight:bold ">Advanced Robot Control Lab (ARC)</a> in Korea Institute of Science and Technology (KIST) 2024 - </span><br>
   &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.9em;">Graduate researcher of <a href="http://cml.korea.ac.kr/bbs/board.php?tbl=m_course&no=4&mode=VIEW&num=64&category=&findType=&findWord=&sort1=&sort2=&page=1" style="font-weight:bold ">Control and Mechatronics Lab(CML)</a> in Korea University 2024 - </span><br>
 sec55: >
-  🧑‍🎓 B.S in Mechanical, Robotics and Energy Engineering, Mar.2020 - Feb. 2024
+  🧑‍🎓 B.S in Mechanical, Robotics and Energy Engineering, Mar. 2020 - Feb. 2024
 sec55-1: >
-  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ Robotics. Dongguk University <span style="font-size: 0.7em;">(GPA: 3.69/4.5)</span><br>
-  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.88em;">Undergraduate researcher of <a href="https://sites.google.com/view/kist-arc/home/people#h.3k1cbav6woek" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> in Korea Institute of Science and Technology (KIST) 2022-2023</span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ Robotics, Dongguk University <span style="font-size: 0.7em;">(GPA: 3.69/4.5)</span><br>
+  &nbsp;&nbsp;&nbsp;&nbsp; ✔️ <span style="font-size: 0.88em;">Undergraduate researcher of <a href="https://sites.google.com/view/kist-arc/home/people#h.3k1cbav6woek" style="font-weight:bold ">Advanced Robot Control Lab(ARC)</a> at Korea Institute of Science and Technology (KIST) 2022-2023</span><br>
 icon1: "fas fa-code"
 icont1: "Write all the code"
 icon2: "fa-cubes"
