@@ -64,8 +64,18 @@ icont6: "Shadow clone technique"
 
 # Section 3
 sec6: "Projects 🤖"
+sec7-0: >
+  "On going project - Whole body MPPI Controller"
+sec8-0: >
+  ✔️ Model : G1, KAPEX(Awaiting public release) <br>
+  ✔️ Method : MJPC + MPPI
+  -Reference paper: <br>
+  <a href="https://arxiv.org/abs/2212.00541" style="font-size: 0.7em;">"Predictive Sampling: Real-time Behaviour Synthesis with MuJoCo"</a><br>
+  <a href="https://arxiv.org/abs/2409.10469" style="font-size: 0.7em;">"Real-Time Whole-Body Control of Legged Robots with Model-Predictive Path Integral Control"</a><br>
+  <a href="https://arxiv.org/abs/2409.15610" style="font-size: 0.7em;">"Full-Order Sampling-Based MPC for Torque-Level Locomotion Control via Diffusion-Style Annealing"</a><br>
+
 sec7: >
-  <a href="/assets/files/icros_paper.pdf" style="text-decoration: underline;"> Published: On going project - Whole body MPPI Controller</a>
+  <a href="/assets/files/icros_paper.pdf" style="text-decoration: underline;"> Published: Whole body MPPI Controller</a>
 sec8: >
   ✔️ Model : MAHRU's new model, KAPEX!(Awaiting public release) <br>
   ✔️ Method : Contact constraint projection dynamics + MPPI
@@ -164,4 +174,3 @@ github: yunsooSeo
 # keybase: username
 google_scholar: citations?user=xPhWctkAAAAJ&hl=ko&oi=sra
 email: 01aggiggi@gmail.com
-
