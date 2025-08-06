@@ -1,6 +1,6 @@
 #Site configuration
-title:  YunSoo:D
-name:  YunSoo Seo 
+title:  Yunsoo:D
+name:  Yunsoo Seo 
 author: Yunsoo Seo 📄
 # work:  Robotics engineer
 work: (click my name for my CV)
@@ -8,7 +8,7 @@ year: 2001
 
 # Navigation
 nav1: "About me 😄"
-nav2: "Educations 🏫"
+nav2: "Education 🏫"
 nav3: "Projects 🤖"
 nav4: "Publications 📜"
 nav5: "Interesting paper review ✏️"
@@ -35,7 +35,7 @@ sec3-2:
   I believe that for robots to closely interact with humans and provide convenience, their workspace needs to expand. In this regard, I think locomotion and balance control will remain crucial research areas. Ultimately, I aim to develop household robots or disaster-response robots that can assist humans effectively.
 
 # Section 2
-sec4: "Educations 🏫"
+sec4: "Education 🏫"
 sec5: >
   👩‍🎓 M.S. in Korea University, Mar. 2024 - Present<br>
 sec5-1: >
