@@ -58,162 +58,63 @@ box-sizing: border-box;
 
 /* Containers */
 
+/* Base */
 .container {
-margin-left: auto;
-margin-right: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 58em; /* 51em → 58em */
 }
 
-.container.\31 25\25 {
-width: 100%;
-max-width: 56.25em;
-min-width: 45em;
-}
-
-.container.\37 5\25 {
-width: 33.75em;
-}
-
-.container.\35 0\25 {
-width: 22.5em;
-}
-
-.container.\32 5\25 {
-width: 11.25em;
-}
-
-.container {
-width: 51em;
-}
-
+/* 큰 화면(≤1680px) */
 @media screen and (max-width: 1680px) {
-
-.container.\31 25\25 {
-width: 100%;
-max-width: 56.25em;
-min-width: 45em;
+  .container.\31 25\25 {
+    width: 100%;
+    max-width: 64em;   /* 56.25em → 64em */
+    min-width: 45em;
+  }
+  .container { width: 52em; } /* 45em → 52em */
 }
 
-.container.\37 5\25 {
-width: 33.75em;
-}
-
-.container.\35 0\25 {
-width: 22.5em;
-}
-
-.container.\32 5\25 {
-width: 11.25em;
-}
-
-.container {
-width: 45em;
-}
-
-}
-
+/* 데스크톱(≤1280px) */
 @media screen and (max-width: 1280px) {
-
-.container.\31 25\25 {
-width: 100%;
-max-width: 52.5em;
-min-width: 42em;
+  .container.\31 25\25 {
+    width: 100%;
+    max-width: 60em;   /* 52.5em → 60em */
+    min-width: 42em;
+  }
+  .container { width: 48em; } /* 42em → 48em */
 }
 
-.container.\37 5\25 {
-width: 31.5em;
-}
-
-.container.\35 0\25 {
-width: 21em;
-}
-
-.container.\32 5\25 {
-width: 10.5em;
-}
-
-.container {
-width: 42em;
-}
-
-}
-
+/* 태블릿 가로(≤1024px) */
 @media screen and (max-width: 1024px) {
-
-.container.\31 25\25 {
-width: 100%;
-max-width: 106.25%;
-min-width: 85%;
+  .container.\31 25\25 {
+    width: 100%;
+    max-width: 106.25%;
+    min-width: 85%;
+  }
+  .container { width: 92% !important; } /* 85% → 92% */
 }
 
-.container.\37 5\25 {
-width: 63.75%;
-}
-
-.container.\35 0\25 {
-width: 42.5%;
-}
-
-.container.\32 5\25 {
-width: 21.25%;
-}
-
-.container {
-width: 85% !important;
-}
-
-}
-
+/* 태블릿/폰(≤736px) */
 @media screen and (max-width: 736px) {
-
-.container.\31 25\25 {
-width: 100%;
-max-width: 112.5%;
-min-width: 90%;
+  .container.\31 25\25 {
+    width: 100%;
+    max-width: 112.5%;
+    min-width: 90%;
+  }
+  .container { width: 94% !important; } /* 90% → 94% */
 }
 
-.container.\37 5\25 {
-width: 67.5%;
-}
-
-.container.\35 0\25 {
-width: 45%;
-}
-
-.container.\32 5\25 {
-width: 22.5%;
-}
-
-.container {
-width: 90% !important;
-}
-
-}
-
+/* 폰(≤480px) */
 @media screen and (max-width: 480px) {
-
-.container.\31 25\25 {
-width: 100%;
-max-width: 112.5%;
-min-width: 90%;
+  .container.\31 25\25 {
+    width: 100%;
+    max-width: 112.5%;
+    min-width: 90%;
+  }
+  .container { width: 96% !important; } /* 90% → 96% */
 }
 
-.container.\37 5\25 {
-width: 67.5%;
-}
-
-.container.\35 0\25 {
-width: 45%;
-}
-
-.container.\32 5\25 {
-width: 22.5%;
-}
-
-.container {
-width: 90% !important;
-}
-
-}
 
 /* Grid */
 
