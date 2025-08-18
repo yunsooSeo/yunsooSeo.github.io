@@ -62,57 +62,32 @@ box-sizing: border-box;
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 58em; /* 51em → 58em */
+  width: 53em; /* 51em → 53em */
 }
 
 /* 큰 화면(≤1680px) */
 @media screen and (max-width: 1680px) {
-  .container.\31 25\25 {
-    width: 100%;
-    max-width: 64em;   /* 56.25em → 64em */
-    min-width: 45em;
-  }
-  .container { width: 52em; } /* 45em → 52em */
+  .container { width: 47em; } /* 45em → 47em */
 }
 
 /* 데스크톱(≤1280px) */
 @media screen and (max-width: 1280px) {
-  .container.\31 25\25 {
-    width: 100%;
-    max-width: 60em;   /* 52.5em → 60em */
-    min-width: 42em;
-  }
-  .container { width: 48em; } /* 42em → 48em */
+  .container { width: 44em; } /* 42em → 44em */
 }
 
 /* 태블릿 가로(≤1024px) */
 @media screen and (max-width: 1024px) {
-  .container.\31 25\25 {
-    width: 100%;
-    max-width: 106.25%;
-    min-width: 85%;
-  }
-  .container { width: 92% !important; } /* 85% → 92% */
+  .container { width: 88% !important; } /* 85% → 88% */
 }
 
 /* 태블릿/폰(≤736px) */
 @media screen and (max-width: 736px) {
-  .container.\31 25\25 {
-    width: 100%;
-    max-width: 112.5%;
-    min-width: 90%;
-  }
-  .container { width: 94% !important; } /* 90% → 94% */
+  .container { width: 92% !important; } /* 90% → 92% */
 }
 
 /* 폰(≤480px) */
 @media screen and (max-width: 480px) {
-  .container.\31 25\25 {
-    width: 100%;
-    max-width: 112.5%;
-    min-width: 90%;
-  }
-  .container { width: 96% !important; } /* 90% → 96% */
+  .container { width: 92% !important; } /* 90% → 92% */
 }
 
 
