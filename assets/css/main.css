@@ -2445,7 +2445,7 @@ width: 100%;
 .features article .inner {
 display: inline-block;
 vertical-align: middle;
-width: 52%;
+width: 80%;
 }
 
 .features article .inner > :last-child {
