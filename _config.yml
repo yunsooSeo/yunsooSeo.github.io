@@ -136,6 +136,7 @@ sec19: >
   ✔️ MPPI-based whole-body optimization <br>
   &nbsp;&nbsp; - Target system: Validated on a 3-DoF leg system for real-time control <br>
   &nbsp;&nbsp; - Key feature: Efficient torque optimization by explicitly eliminating contact forces  <br>
+  &nbsp;&nbsp; - Selected for recommendation for submission to the Journal of ICROS!!
 sec20: "Snapped dark matter in the wild"
 sec21: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
